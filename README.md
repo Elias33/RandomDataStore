@@ -1,4 +1,4 @@
-# RandomDataStore
+# Random time DataStore
 # Randomly time store to MYSQL server by Python programming <br>
 import pymysql<br>
 import time<br>
