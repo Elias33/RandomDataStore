@@ -1,9 +1,9 @@
 # RandomDataStore
-Randomly time store to MYSQL server by Python programming 
-import pymysql
-import time
-connection = pymysql.connect(host="localhost", user="root", passwd="", db="datasoft")
-myCursor = connection.cursor()
+Randomly time store to MYSQL server by Python programming <br>
+import pymysql<br>
+import time<br>
+connection = pymysql.connect(host="localhost", user="root", passwd="", db="datasoft")<br>
+myCursor = connection.cursor()<br>
 
 
 while True:
